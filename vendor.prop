@@ -1,5 +1,5 @@
 # Bluetooth
-bluetooth.device.default_name=Poco F1
+bluetooth.device.default_name=Pocophone F1
 
 # Display postprocessing
 persist.ppd.fde.config=0
@@ -10,3 +10,6 @@ vendor.hw.fm.init=0
 
 # System
 persist.sys.binary_xml=false
+
+# USB
+vendor.usb.product_string=Xiaomi Pocophone F1
