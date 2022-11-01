@@ -130,7 +130,7 @@ PRODUCT_PACKAGES += \
 
 # Shims
 PRODUCT_PACKAGES += \
-    libpiex_shim_beryllium
+    libpiex_shim
 
 # Wallpapers
 PRODUCT_PACKAGES += \
