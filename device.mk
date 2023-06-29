@@ -130,3 +130,6 @@ PRODUCT_PACKAGES += \
 # Wallpapers
 PRODUCT_PACKAGES += \
     PixelLiveWallpaperPrebuilt
+
+# Call MiCam setup
+$(call inherit-product, vendor/miuicamera/config.mk)
